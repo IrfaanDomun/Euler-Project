@@ -39,3 +39,4 @@ func sumPrime(n int) int{
 func main() {
 	variable := 2000000
 	fmt.Println(sumPrime(variable))
+}
